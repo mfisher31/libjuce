@@ -1,3 +1,6 @@
+# ARCHIVED
+This project is dead, just use upstream JUCE instead.
+
 ## libJUCE
 
 [![Build Status](https://travis-ci.org/kushview/libjuce.svg?branch=master)](https://travis-ci.org/kushview/libjuce)
